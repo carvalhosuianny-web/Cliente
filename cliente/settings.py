@@ -28,7 +28,7 @@ SECRET_KEY = 'django-insecure-^mtsdkjem=v^_oqr+di69+hm)0=q=gx-^mc#po#-e-8j$(=e&b
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = ["cliente-qr48.onrender.com"]
+ALLOWED_HOSTS = ["cliente-qr48.onrender.com", "localhost"]
 
 LOGIN_URL = '/login/'
 
